@@ -1,3 +1,2 @@
 # tindog-site-clone
-A practice project, clone of tindog site.
-This is a bootstrap practice project.
+This is a practice project that replicates the Tindog website using Bootstrap. It serves as an exercise in applying Bootstrap for web development.
