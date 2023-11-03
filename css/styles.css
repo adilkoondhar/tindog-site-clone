@@ -64,8 +64,12 @@ p {
 
 #features {
   padding: 7% 15%;
-  background-color: #fff;
+  background-color: #121212;
   position: relative;
+}
+
+#features h3 {
+  color: #EEF3F9;
 }
 
 .feature-box {
@@ -112,10 +116,28 @@ p {
 #pricing {
   padding: 6rem;
   text-align: center;
+  background-color: #121212;
+}
+
+#pricing h2 {
+  color: #fff;
+}
+
+#pricing h3 {
+  color: #EEF3F9;
 }
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+.card {
+  background-color:#121212;
+  border-color: #8f8f8f;
+}
+
+.card-header {
+  border-color: #8f8f8f;
 }
 
 .card-text {
@@ -152,10 +174,11 @@ p {
 #footer {
   text-align: center;
   padding: 7% 15%;
+  background-color: #121212;
 }
 
 .social-icon {
   margin: 1.25rem 0.625rem;
   text-decoration: none;
-  color: black;
+  color: #fff;
 }
