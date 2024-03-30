@@ -4,3 +4,4 @@ This is a practice project that replicates the Tindog website using Bootstrap. I
 ## Technologies Used
 - **Bootstrap:** Bootstrap is implemented to create a responsive design.
 - **CSS:** Custom styling is implemented using CSS to create an aesthetically pleasing design.
+- **HTML:** The fundamental markup language for creating structured web documents, providing the backbone for content presentation and organization.
